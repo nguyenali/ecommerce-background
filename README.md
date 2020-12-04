@@ -7,6 +7,11 @@ A back-end application to be used anyone starting an e-commerce site. This allow
 with the dynamic ability to Create, Read, Update, Delete using Sequelize models to configure their database to their preferences. 
 The starter models included are Products, Categories, and Tags.
 
+## Video Link:
+
+https://youtu.be/yAz57cL6TQk
+
+
 ## Technology Used:
 
 * MySQL2
